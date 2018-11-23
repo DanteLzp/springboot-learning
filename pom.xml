@@ -29,7 +29,8 @@
         <module>springboot-interceptor</module>
         <module>springboot-validator</module>
 		<module>springboot-websocket</module>
-    </modules>
+		<module>com.home</module>
+	</modules>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
